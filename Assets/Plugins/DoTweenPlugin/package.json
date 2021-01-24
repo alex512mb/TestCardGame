@@ -1,0 +1,21 @@
+{
+  "name": "com.playgendary.modules.dotween",
+  "version": "1.0.0",
+  "displayName": "DoTween",
+  "description": "DoTween module",
+  "unity": "2019.3",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.playgendary.modules.general": "1.0.0",
+    "com.unity.textmeshpro": "2.0.1"
+  },
+  "hideInEditor": false,
+  "internal":[
+    {
+      "dotween_package": "1.2.335"
+    }
+  ]
+}
